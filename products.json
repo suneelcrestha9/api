@@ -1,5 +1,4 @@
-{
-    "products":[
+[
     {
         "title": "The End Hoodie",
         "image": "https://i.pinimg.com/564x/6f/cd/a3/6fcda3f38b426b9cef49767a18b9e3b5.jpg",
@@ -109,7 +108,7 @@
         "id": 12
     }
     ]
-}
+
 
 
 
