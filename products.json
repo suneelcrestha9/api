@@ -6,6 +6,7 @@
         "categories":"male",
         "discription":"This The Box Hood is a winter hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this winter to keep you warm ",
         "sale":"true",
+        "quantity":1,
         "id": 1
     },
     {
@@ -15,6 +16,7 @@
         "categories":"female",
         "discription":"This The Box Hood is a winter hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this winter to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 2
     },
     {
@@ -24,6 +26,7 @@
         "categories":"male",
         "discription":"This The Box Hood is a summer hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this summer to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 3
     },
     {
@@ -33,6 +36,7 @@
         "categories":"male",
         "discription":"This The Box Hood is a summer hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this summer to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 4
     },
     {
@@ -42,6 +46,7 @@
         "categories":"female",
         "discription":"This The Box Hood is a summer hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this summer to keep you warm ",
         "sale":"true",
+        "quantity":1,
         "id": 5
     },
     {
@@ -51,6 +56,7 @@
         "categories":"male",
         "discription":"This The Box Hood is a winter hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this winter to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 6
     },
     {
@@ -60,6 +66,8 @@
         "categories":"male",
         "discription":"This The Box Hood is a winter hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this winter to keep you warm ",
         "sale":"true",
+        "quantity":1,
+        "colors":["black","blue","white"],
         "id": 7
     },
     {
@@ -69,6 +77,7 @@
         "categories":"female",
         "discription":"This The Box Hood is a winter hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this winter to keep you warm ",
         "sale":"true",
+        "quantity":1,
         "id": 8
     },
     {
@@ -78,6 +87,7 @@
         "categories":"male",
         "discription":"This The Box Hood is a summer hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this summer to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 9
     },
     {
@@ -87,6 +97,7 @@
         "categories":"male",
         "discription":"This The Box Hood is a summer hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this summer to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 10
     },
     {
@@ -96,6 +107,7 @@
         "categories":"female",
         "discription":"This The Box Hood is a summer hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this summer to keep you warm ",
         "sale":"true",
+        "quantity":1,
         "id": 11
     },
     {
@@ -105,10 +117,10 @@
         "categories":"male",
         "discription":"This The Box Hood is a winter hoodie with fleench inside .They are manufacture in Nepal and the fabric is from Korea .This hoodie is very warm and recommended for you this winter to keep you warm ",
         "sale":"false",
+        "quantity":1,
         "id": 12
     }
     ]
-
 
 
 
